@@ -8,14 +8,16 @@
 ## Live Preview
 https://milan-malik.github.io/human-to-animal-age/
 
+This web application allows users to convert human ages into the approximate age of various animals. By inputting a human age, the tool calculates and displays the corresponding age in "dog years," "cat years," and several other animals, such as rabbits, horses, cows, elephants, lions, and dolphins. The conversion is based on average multipliers for each species, offering a fun and interactive way to compare human and animal lifespans.
 
 ## Features
 
+- Convert human age to animal age for various species
 - Input Fields: Capture necessary information
   - Animal to convert to
   - Human age
 - Hover Effect on button
-- Responsive website
+- Responsive design that works on both desktop and mobile devices
   
 ## Technologies Used
 

@@ -11,10 +11,11 @@ https://milan-malik.github.io/human-to-animal-age/
 
 ## Features
 
-- ## Input Fields: Capture necessary information
+- Input Fields: Capture necessary information
   - Animal to convert to
   - Human age
 - Hover Effect on button
+- Responsive website
   
 ## Technologies Used
 
